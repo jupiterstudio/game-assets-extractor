@@ -1,0 +1,237 @@
+{
+  "canvas": {
+    "width": 1254,
+    "height": 1254,
+    "source": "ChatGPT Image May 27, 2026, 02_02_43 PM.png"
+  },
+  "items": [
+    {
+      "id": "bird",
+      "label": "bird",
+      "src": "items/bird.png",
+      "x": 845,
+      "y": 921,
+      "width": 358,
+      "height": 330,
+      "bbox": [
+        883,
+        959,
+        1168,
+        1214
+      ],
+      "score": 0.7493334412574768,
+      "interactive": true,
+      "mask": "masks/bird_mask.png",
+      "shadow": "masks/bird_mask.png"
+    },
+    {
+      "id": "cat",
+      "label": "cat",
+      "src": "items/cat.png",
+      "x": 62,
+      "y": 0,
+      "width": 269,
+      "height": 386,
+      "bbox": [
+        100,
+        30,
+        293,
+        348
+      ],
+      "score": 0.7956950068473816,
+      "interactive": true,
+      "mask": "masks/cat_mask.png",
+      "shadow": "masks/cat_mask.png"
+    },
+    {
+      "id": "cat_02",
+      "label": "cat",
+      "src": "items/cat_02.png",
+      "x": 776,
+      "y": 0,
+      "width": 419,
+      "height": 390,
+      "bbox": [
+        814,
+        28,
+        1158,
+        352
+      ],
+      "score": 0.8099740743637085,
+      "interactive": true,
+      "mask": "masks/cat_02_mask.png",
+      "shadow": "masks/cat_02_mask.png"
+    },
+    {
+      "id": "cat_03",
+      "label": "cat",
+      "src": "items/cat_03.png",
+      "x": 432,
+      "y": 91,
+      "width": 334,
+      "height": 298,
+      "bbox": [
+        469,
+        128,
+        728,
+        351
+      ],
+      "score": 0.7716026902198792,
+      "interactive": true,
+      "mask": "masks/cat_03_mask.png",
+      "shadow": "masks/cat_03_mask.png"
+    },
+    {
+      "id": "dog",
+      "label": "dog",
+      "src": "items/dog.png",
+      "x": 453,
+      "y": 341,
+      "width": 288,
+      "height": 340,
+      "bbox": [
+        491,
+        379,
+        702,
+        642
+      ],
+      "score": 0.658886194229126,
+      "interactive": true,
+      "mask": "masks/dog_mask.png",
+      "shadow": "masks/dog_mask.png"
+    },
+    {
+      "id": "dog_02",
+      "label": "dog",
+      "src": "items/dog_02.png",
+      "x": 12,
+      "y": 393,
+      "width": 429,
+      "height": 263,
+      "bbox": [
+        50,
+        430,
+        402,
+        617
+      ],
+      "score": 0.6570152640342712,
+      "interactive": true,
+      "mask": "masks/dog_02_mask.png",
+      "shadow": "masks/dog_02_mask.png"
+    },
+    {
+      "id": "dog_03",
+      "label": "dog",
+      "src": "items/dog_03.png",
+      "x": 795,
+      "y": 340,
+      "width": 442,
+      "height": 344,
+      "bbox": [
+        834,
+        377,
+        1198,
+        647
+      ],
+      "score": 0.6715424656867981,
+      "interactive": true,
+      "mask": "masks/dog_03_mask.png",
+      "shadow": "masks/dog_03_mask.png"
+    },
+    {
+      "id": "cat_rabbit",
+      "label": "cat rabbit",
+      "src": "items/cat_rabbit.png",
+      "x": 863,
+      "y": 656,
+      "width": 276,
+      "height": 308,
+      "bbox": [
+        900,
+        693,
+        1100,
+        927
+      ],
+      "score": 0.49329251050949097,
+      "interactive": true,
+      "mask": "masks/cat_rabbit_mask.png",
+      "shadow": "masks/cat_rabbit_mask.png"
+    },
+    {
+      "id": "rabbit_turtle",
+      "label": "rabbit turtle",
+      "src": "items/rabbit_turtle.png",
+      "x": 24,
+      "y": 963,
+      "width": 366,
+      "height": 264,
+      "bbox": [
+        62,
+        1000,
+        352,
+        1190
+      ],
+      "score": 0.5185708403587341,
+      "interactive": true,
+      "mask": "masks/rabbit_turtle_mask.png",
+      "shadow": "masks/rabbit_turtle_mask.png"
+    },
+    {
+      "id": "turtle",
+      "label": "turtle",
+      "src": "items/turtle.png",
+      "x": 414,
+      "y": 975,
+      "width": 397,
+      "height": 258,
+      "bbox": [
+        451,
+        1012,
+        772,
+        1196
+      ],
+      "score": 0.5140798687934875,
+      "interactive": true,
+      "mask": "masks/turtle_mask.png",
+      "shadow": "masks/turtle_mask.png"
+    },
+    {
+      "id": "cat_rabbit_02",
+      "label": "cat rabbit",
+      "src": "items/cat_rabbit_02.png",
+      "x": 88,
+      "y": 602,
+      "width": 227,
+      "height": 372,
+      "bbox": [
+        126,
+        640,
+        278,
+        935
+      ],
+      "score": 0.4679111838340759,
+      "interactive": true,
+      "mask": "masks/cat_rabbit_02_mask.png",
+      "shadow": "masks/cat_rabbit_02_mask.png"
+    },
+    {
+      "id": "rabbit_turtle_02",
+      "label": "rabbit turtle",
+      "src": "items/rabbit_turtle_02.png",
+      "x": 412,
+      "y": 709,
+      "width": 392,
+      "height": 242,
+      "bbox": [
+        448,
+        747,
+        766,
+        914
+      ],
+      "score": 0.5070054531097412,
+      "interactive": true,
+      "mask": "masks/rabbit_turtle_02_mask.png",
+      "shadow": "masks/rabbit_turtle_02_mask.png"
+    }
+  ]
+}
